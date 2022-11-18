@@ -1,0 +1,26 @@
+{
+    "name": "UBQFit Token",
+    "symbol": "UBQFit",
+    "type": "ERC1155",
+    "description": "UBQFit Token",
+    "external_url": "https://ubqfit.io",
+    "image": "https://ipfs.io/ipfs/QmdPNnuBEgVL22cWL4q3PkyHmDhTxwq8GEuuLKV5oCap8K",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "UBQFit Token"
+        },
+        {
+            "trait_type": "Symbol",
+            "value": "UBQFit"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": 18
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": 10000000000
+        }
+    ]
+}
